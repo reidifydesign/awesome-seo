@@ -9,6 +9,7 @@
 ## **Analysis and Site Auditing**
 - [AnswerLens](https://app.sfdj.net/) - Audits pages for AI answer-engine visibility. 💵
 - [Broken Link Checker](https://broken-links-checker.com/) - Chrome extension to find broken links on a page or across a whole site. 💵
+- [crawler-snapshot](https://github.com/reidifydesign/crawler-snapshot) - CLI that compares the HTML a crawler receives with the page a browser renders, and saves rendered HTML snapshots. 🔓
 - [GSC Indexer](https://github.com/toolsura/gsc-indexer) - CLI and GitHub Action to submit and re-index URLs via the Google Search Console API. 🔓
 - [KinetixSEO](https://kinetixseo.com/) - On-page and GEO SEO checker that ranks findings by impact vs. effort. 💵
 - [MergeFix](https://mergefix.com) - AI agent that audits a site and ships SEO, accessibility and performance fixes as Pull Requests. 💰
